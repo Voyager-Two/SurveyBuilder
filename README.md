@@ -13,7 +13,7 @@
 
 ## Technical details
 - Next.js & React
-- Redux for managing other state, such as which step user is on
+- Redux for managing user state
 - Mantine as UI framework
 
 ## AI usage notice
