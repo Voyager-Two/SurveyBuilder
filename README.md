@@ -1,4 +1,4 @@
-- See live demo: https://swapify-olive.vercel.app/
+- See live demo: https://survey-builder-nu.vercel.app/
 
 ## Testing locally
 - `yarn install`
