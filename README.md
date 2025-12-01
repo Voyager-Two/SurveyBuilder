@@ -13,7 +13,6 @@
 
 ## Technical details
 - Next.js & React
-- React Hook Form for form state management w/ Zod for validation
 - Redux for managing other state, such as which step user is on
 - Mantine as UI framework
 
@@ -22,4 +21,4 @@
 
 ## Improvements that could be made
 - Use Tailwind CSS instead as per instructions
-- Add form field validation w/ RHF and Zod
+- Add form field validation w/ React Hook Form and Zod
