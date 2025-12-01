@@ -22,3 +22,4 @@
 
 ## Improvements that could be made
 - Use Tailwind CSS instead as per instructions
+- Add form field validation w/ RHF and Zod
